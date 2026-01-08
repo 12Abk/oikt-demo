@@ -31,6 +31,7 @@ primjer **boldane** i *italic* riječi:
 
 ikonice pišemo unutar dvotočki : sa lijeve i desne strane
 one se ne prikazuju na markdownu ali se prikazu kad commitamo na github
+
 :bulb:
 :warning:
 
