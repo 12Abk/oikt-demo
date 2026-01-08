@@ -1,6 +1,5 @@
 ovo je naš readme
 
-<p style="color:red">Ovo je paragraf</p>
 
 # Ovo je h1
 ## Ovo je h2
